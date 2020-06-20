@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">MyMusic</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="lets_get_started_intro">Let\'s Get started</string>
+    <string name="sign_in_intro">SIGN IN</string>
+    <string name="sign_up_intro">SIGN UP</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+
+    <string name="login_text">Log in</string>
+    <string name="sign_up_here_btn">Not registered ? Sign Up here</string>
+    <string name="enter_full_name_hint">Enter full name</string>
+    <string name="user_name_hint">User Name</string>
+    <string name="gender">Gender</string>
+    <string name="male_option">Male</string>
+    <string name="female_option">Female</string>
+    <string name="register_btn">Register</string>
+    <string name="already_have_account_btn">Already have an account? Sign in</string>
+
+    <string name="image">image</string>
+    <string name="song_title">Song Title</string>
+    <string name="song_artist">Song Artist</string>
+    <string name="song_genre">Song Genre</string>
+
+    <string name="search_bar_hint">Search</string>
+
+    <string name="songimage">SongImage</string>
+    <string name="title_fill_text">In oglinda ta.</string>
+    <string name="timer_start">0:0</string>
+    <string name="timer_end">0:0</string>
+
+
+    <string name="user_image">user_image</string>
+    <string name="user_display_username_title">Brigada Android</string>
+    <string name="text_under_top_user">G.L.A.</string>
+    <string name="number_of_songs">123</string>
+    <string name="songs_number">All Songs</string>
+    <string name="headset_icon">headset</string>
+    <string name="heart_icon">heart_icon</string>
+    <string name="number_of_favourite">Favorites</string>
+    <string name="favourite_number">123</string>
+    <string name="full_name_text">Android Squad</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="user_username">AS</string>
+    <string name="password_fill_text">*******</string>
+    <string name="application_name">MyMusic</string>
+    <string name="application_icon">application_icon</string>
+    <string name="user_text">User</string>
+    <string name="home_text">Home</string>
+    <string name="library_text">Library</string>
+    <string name="log_out_text">Log Out</string>
+</resources>
